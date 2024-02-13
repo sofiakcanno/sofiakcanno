@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on future proyects
 - 📫 How to reach me:
        LinkedIn: https://www.linkedin.com/in/sof%C3%ADa-pantoja-cano-35a3611a8/
-- ✨ 
+- ✨ Link to my LaTex notes:
+-        Thermodynamics: https://www.overleaf.com/read/sryctgvhnwdw#486cc0
 - ⚡ Fun fact: I love cats 
 
 <!---
